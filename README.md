@@ -11,6 +11,6 @@ Saya adalah seorang *Fullstack Developer* dan mahasiswa S2 Ilmu Komputer di Univ
 *   **Framework & Tools:** Next.js, FastAPI, React, MySQL, Git/GitHub, Docker
 
 ### 📫 Terhubung dengan Saya
-*   **LinkedIn:** [aldi-indrawan](https://www.linkedin.com/in/aldi-indrawan-256329386)
+*   **LinkedIn:** [aldi-indrawan](https://www.linkedin.com/in/aldi-indrawan-256329386/)
 *   **ResearchGate:** [Profil ResearchGate](https://www.researchgate.net/profile/Aldi-Indrawan?ev=hdr_xprf)
 *   **Email:** indrawan.aldi17@gmail.com
